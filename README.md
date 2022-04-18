@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Kotlin and Android**
 
-- 📝 I regularly write articles on [https://www.cuevadelprogramador.com](https://www.cuevadelprogramador.com)
-
 - 💬 Ask me about **Android, Kotlin**
 
 
